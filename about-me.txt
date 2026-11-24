@@ -1,1 +1,2 @@
 I am learning Git and GitHub as a Mechatronics Engineering student.
+My goal is to develop skills in robotics, automation, control systems, and AI.
